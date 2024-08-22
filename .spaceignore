@@ -1,0 +1,6 @@
+.space
+.spaceignore
+
+
+__pycache__
+venv
